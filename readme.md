@@ -1,4 +1,12 @@
-#
+# Posit-92_WASM_CPP
+
+Archived: This port uses the pre-standardisation Posit-92 API and is no longer maintained
+
+This repository reflects the Posit-92 (WASM) API as it existed around January 2026
+
+Refer to the current Posit-92 (WASM) implementation in Pascal: [Hevanafa/Posit-92_WASM](https://github.com/Hevanafa/Posit-92_WASM)
+
+---
 
 C++ subset port of my [Posit-92 Wasm](https://github.com/Hevanafa/Posit-92_Wasm) game engine
 
